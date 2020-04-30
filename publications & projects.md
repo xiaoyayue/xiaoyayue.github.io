@@ -32,7 +32,7 @@ title: Publications & Projects
     <div class="media-body">
        <p class="media-heading">
           <strong>Gun Violence in Schools: Prevention after Parkland</strong><br />
-          <b>Lixue Chen</b>, Kia Sosa, Amanda Macdonald 
+          <b>Lixue Chen</b>, Kia Sosa, Amanda Macdonald <br />
           Cost Benefit Analysis <br />
        </p>
     </div>
@@ -41,7 +41,7 @@ title: Publications & Projects
     <div class="media-body">
        <p class="media-heading">
           <strong>Data Visualization: ShinyApp for HIV epidemic rates and Funding</strong><br />
-          <b>Lixue Chen</b> https://tifflxc.shinyapps.io/attempt1/ 
+          <b>Lixue Chen</b> https://tifflxc.shinyapps.io/attempt1/ <br />
           R, Data Visualization <br />
        </p>
     </div>
