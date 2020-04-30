@@ -14,8 +14,8 @@ title: Publications & Projects
           <strong>Governance and Health Aid from the Global Fund: Effects Beyond Fighting Disease
 </strong><br />
           Matthew M Kavanagh, <b>Lixue Chen</b><br />
-          Annals of Global Health<br />
-           <br>R, Stata, Robustness Test, Data Collection, Econometric models <br />
+          Annals of Global Health
+          R, Stata, Robustness Test, Data Collection, Econometric models <br />
        </p>
     </div>
 </div>
@@ -23,8 +23,8 @@ title: Publications & Projects
     <div class="media-body">
        <p class="media-heading">
           <strong>Identifying Slumlords in Washington, DC: A Predictive Analytics Approach</strong><br />
-          <b>Lixue Chen</b>, Madeline Pickens, Jingyan Wu, Yun Zhang<br />
-          <br> Python, Supervised and Unsupervised learning <br />
+          <b>Lixue Chen</b>, Madeline Pickens, Jingyan Wu, Yun Zhang
+          Python, Supervised and Unsupervised learning <br />
        </p>
     </div>
 </div>
@@ -32,8 +32,8 @@ title: Publications & Projects
     <div class="media-body">
        <p class="media-heading">
           <strong>Gun Violence in Schools: Prevention after Parkland</strong><br />
-          <b>Lixue Chen</b>, Kia Sosa, Amanda Macdonald <br />
-          <br> Cost Benefit Analysis <br />
+          <b>Lixue Chen</b>, Kia Sosa, Amanda Macdonald
+          Cost Benefit Analysis <br />
        </p>
     </div>
 </div>
@@ -41,8 +41,8 @@ title: Publications & Projects
     <div class="media-body">
        <p class="media-heading">
           <strong>Data Visualization: ShinyApp for HIV epidemic rates and Funding</strong><br />
-          <b>Lixue Chen</b> https://tifflxc.shinyapps.io/attempt1/ <br />
-          <br> R, Data Visualization <br />
+          <b>Lixue Chen</b> https://tifflxc.shinyapps.io/attempt1/ 
+          R, Data Visualization <br />
        </p>
     </div>
 </div>
@@ -55,7 +55,7 @@ title: Publications & Projects
        <p class="media-heading">
           <strong>Analysis on Reddit comments</strong><br />
           <b>Lixue Chen</b> 
-          <br> AWS,PySpark <br />
+          AWS,PySpark <br />
        </p>
     </div>
 </div>
