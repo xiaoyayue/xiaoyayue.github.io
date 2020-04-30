@@ -15,6 +15,7 @@ title: Publications & Projects
 </strong><br />
           Matthew M Kavanagh, <b>Lixue Chen</b><br />
           Annals of Global Health<br />
+           <br>R, Stata, Robustness Test, Data Collection, Econometric models <br />
        </p>
     </div>
 </div>
@@ -23,6 +24,7 @@ title: Publications & Projects
        <p class="media-heading">
           <strong>Identifying Slumlords in Washington, DC: A Predictive Analytics Approach</strong><br />
           <b>Lixue Chen</b>, Madeline Pickens, Jingyan Wu, Yun Zhang<br />
+          <br> Python, Supervised and Unsupervised learning <br />
        </p>
     </div>
 </div>
@@ -31,6 +33,7 @@ title: Publications & Projects
        <p class="media-heading">
           <strong>Gun Violence in Schools: Prevention after Parkland</strong><br />
           <b>Lixue Chen</b>, Kia Sosa, Amanda Macdonald <br />
+          <br> Cost Benefit Analysis <br />
        </p>
     </div>
 </div>
@@ -39,6 +42,7 @@ title: Publications & Projects
        <p class="media-heading">
           <strong>Data Visualization: ShinyApp for HIV epidemic rates and Funding</strong><br />
           <b>Lixue Chen</b> https://tifflxc.shinyapps.io/attempt1/ <br />
+          <br> R, Data Visualization <br />
        </p>
     </div>
 </div>
@@ -50,7 +54,8 @@ title: Publications & Projects
     <div class="media-body">
        <p class="media-heading">
           <strong>Analysis on Reddit comments</strong><br />
-          <b>Lixue Chen</b> AWS,PySpark <br />
+          <b>Lixue Chen</b> 
+          <br> AWS,PySpark <br />
        </p>
     </div>
 </div>
