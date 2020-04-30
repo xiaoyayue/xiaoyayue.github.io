@@ -42,3 +42,15 @@ title: Publications & Projects
        </p>
     </div>
 </div>
+
+<h3>
+    <a name='2020'></a> 2020
+</h3>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Analysis on Reddit comments</strong><br />
+          <b>Lixue Chen</b> AWS,PySpark <br />
+       </p>
+    </div>
+</div>
