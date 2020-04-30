@@ -34,4 +34,11 @@ title: Publications & Projects
        </p>
     </div>
 </div>
-
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Data Visualization: ShinyApp for HIV epidemic rates and Funding</strong><br />
+          <b>Lixue Chen</b> https://tifflxc.shinyapps.io/attempt1/ <br />
+       </p>
+    </div>
+</div>
