@@ -3,46 +3,43 @@ layout: page
 title: Publications & School Projects
 ---
 
-
-
 <h3>
     <a name='2019'></a> 2019
 </h3>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Governance and Health Aid from the Global Fund: Effects Beyond Fighting Disease
+          <strong>Predicting Vacancies and House Flipping in the District of Columbia</strong><br />
+          Chanlder Dawson, Benjamin Roth,  Andrea Quevedos, <b>Lily Yue </b> <br />
+          Python, Supevised and Unsupervised Learning, Random Forest, Logit Model <br />
+       </p>
+    </div>
+</div>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>DCRA Insight Report: Identifying Top Violation Categories in High-Risk Properties</strong><br />
+          <b>Lily Yue </b> <br />
+          Python, Natural Language Processing <br />
+       </p>
+    </div>
+</div>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>HUD’s Challenges to Providing Quality Housing through Local Public Housing Authority (PHA) Partnerships
 </strong><br />
-          Matthew M Kavanagh, <b>Lixue Chen</b><br />
-          Annals of Global Health <br />
-          R, Stata, Robustness Test, Data Collection, Econometric models <br />
+           Linn Groft, Shuai (Alexander) You, <b>Lily Yue</b><br />
+          Project Management <br />
        </p>
     </div>
 </div>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Identifying Slumlords in Washington, DC: A Predictive Analytics Approach</strong><br />
-          <b>Lixue Chen</b>, Madeline Pickens, Jingyan Wu, Yun Zhang <br />
-          Python, Supervised and Unsupervised learning <br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Gun Violence in Schools: Prevention after Parkland</strong><br />
-          <b>Lixue Chen</b>, Kia Sosa, Amanda Macdonald <br />
-          Cost Benefit Analysis <br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Data Visualization: ShinyApp for HIV epidemic rates and Funding</strong><br />
-          <b>Lixue Chen</b> https://tifflxc.shinyapps.io/attempt1/ <br />
-          R, Data Visualization <br />
+          <strong>Data Visualization: An Exploratory Study of Economic Complexity and Human Development Indicators</strong><br />
+          <b>Lily Yue</b> https://xiaoyayue.github.io/data_viz_final_project/ <br />
+          Data Visualization, R, Tableau<br />
        </p>
     </div>
 </div>
@@ -53,9 +50,18 @@ title: Publications & School Projects
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Analysis on Reddit comments</strong><br />
-          <b>Lixue Chen</b> <br />
-          AWS,PySpark <br />
+          <strong>Massive Data Fundamentals: Predicting Reddit Post Score using Logistic Regression in Apache Spark</strong><br />
+          <b>Lily Yue</b> <br />
+          AWS, Apache Spark, pyspark <br />
+       </p>
+    </div>
+</div>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Bike4All: Promoting Capital Bikeshare for Transit Equity</strong><br />
+          Lixue Chen, Junying Tong, <b>Lily Yue</b><br />
+          Data Collectionm, Cost Benefit Analysis, Data Collection, Mindmap <br />
        </p>
     </div>
 </div>
