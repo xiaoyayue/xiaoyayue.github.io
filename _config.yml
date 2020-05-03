@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://tifflxc.github.io"
+url: "http://xiaoyayue.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Lixue Chen
+title: Xiaoya Lily Yue
 
 # Short description of your site
 description: Personal Homepage
@@ -25,11 +25,11 @@ description: Personal Homepage
 navbar-links:
   Home: "index"
   Publications & projects: "publications & projects"
-  Resume: "CV.pdf"
+  Resume: "LilyYue_CV.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/lixuechen.jpeg"
+avatar: "/img/xiaoyayue.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -40,9 +40,9 @@ avatar: "/img/lixuechen.jpeg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Lixue Chen
-  email: "tiff.lxc@gmail.com"
-  github: tifflxc   # eg. daattali
+  name: Xiaoya Lily Yue
+  email: "xy144@georgetown.com"
+  github: xiaoyayue   # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
