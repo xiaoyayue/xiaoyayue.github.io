@@ -41,7 +41,7 @@ avatar: "/img/xiaoyayue.jpeg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Xiaoya Lily Yue
-  email: "xy144@georgetown.com"
+  email: "xy144@georgetown.edu"
   github: xiaoyayue   # eg. daattali
 
 # Select which links to show in the footer
