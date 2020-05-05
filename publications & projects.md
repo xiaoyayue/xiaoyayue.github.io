@@ -29,7 +29,7 @@ layout: page
           <strong>HUD’s Challenges to Providing Quality Housing through Local Public Housing Authority (PHA) Partnerships
 </strong><br />
            Linn Groft, Shuai (Alexander) You, <b>Lily Yue</b><br />
-          Project Management <br />
+          Public Management <br />
        </p>
     </div>
 </div>
@@ -37,7 +37,8 @@ layout: page
     <div class="media-body">
        <p class="media-heading">
           <strong>Data Visualization: An Exploratory Study of Economic Complexity and Human Development Indicators</strong><br />
-          <b>Lily Yue</b>  <dd>https://xiaoyayue.github.io/data_viz_final_project/</dd> 
+          <b>Lily Yue</b>  <br />
+          https://xiaoyayue.github.io/data_viz_final_project/ <br />
           Data Visualization, R, Tableau<br />
        </p>
     </div>
