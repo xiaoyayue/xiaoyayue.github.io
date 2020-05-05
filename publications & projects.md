@@ -38,8 +38,7 @@ title: Publications & School Projects
     <div class="media-body">
        <p class="media-heading">
           <strong>Data Visualization: An Exploratory Study of Economic Complexity and Human Development Indicators</strong><br />
-          <b>Lily Yue</b> 
-           <dd>https://xiaoyayue.github.io/data_viz_final_project/</dd><br />
+          <b>Lily Yue</b>  <dd>https://xiaoyayue.github.io/data_viz_final_project/</dd><br />
           Data Visualization, R, Tableau<br />
        </p>
     </div>
@@ -53,7 +52,6 @@ title: Publications & School Projects
         <strong>IMF's Role in the 1997 East Asia Financial Crisis</strong><br />
           Lixue Chen, Allen Tullos, Gwen Mazzotta, <b>Lily Yue</b><br />
           Data Collection, Econometrics, Finance Model <br />
-       </p>
     </div>
 </div>
 <div class="media">
@@ -61,7 +59,6 @@ title: Publications & School Projects
         <strong>Bike4All: Promoting Capital Bikeshare for Transit Equity</strong><br />
           Lixue Chen, Junying Tong, <b>Lily Yue</b><br />
           Data Collection, Cost Benefit Analysis, Mindmap <br />
-       </p>
     </div>
 </div>
 <div class="media">
