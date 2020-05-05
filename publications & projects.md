@@ -38,7 +38,9 @@ layout: page
        <p class="media-heading">
           <strong>Data Visualization: An Exploratory Study of Economic Complexity and Human Development Indicators</strong><br />
           <b>Lily Yue</b>  <br />
+           <h3>
           https://xiaoyayue.github.io/data_viz_final_project/ <br />
+               <h3>
           Data Visualization, R, Tableau<br />
        </p>
     </div>
