@@ -50,19 +50,26 @@ title: Publications & School Projects
 </h3>
 <div class="media">
     <div class="media-body">
-       <p class="media-heading">
-          <strong>Massive Data Fundamentals: Predicting Reddit Post Score using Logistic Regression in Apache Spark</strong><br />
-          <b>Lily Yue</b> <br />
-          AWS, Apache Spark, pyspark <br />
+        <strong>IMF's Role in the 1997 East Asia Financial Crisis</strong><br />
+          Lixue Chen, Allen Tullos, Gwen Mazzotta, <b>Lily Yue</b><br />
+          Data Collection, Econometrics, Finance Model <br />
+       </p>
+    </div>
+</div>
+<div class="media">
+    <div class="media-body">
+        <strong>Bike4All: Promoting Capital Bikeshare for Transit Equity</strong><br />
+          Lixue Chen, Junying Tong, <b>Lily Yue</b><br />
+          Data Collection, Cost Benefit Analysis, Mindmap <br />
        </p>
     </div>
 </div>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Bike4All: Promoting Capital Bikeshare for Transit Equity</strong><br />
-          Lixue Chen, Junying Tong, <b>Lily Yue</b><br />
-          Data Collectionm, Cost Benefit Analysis, Data Collection, Mindmap <br />
+           <strong>Massive Data Fundamentals: Predicting Reddit Post Score using Logistic Regression in Apache Spark</strong><br />
+          <b>Lily Yue</b> <br />
+          AWS, Apache Spark, pyspark <br />
        </p>
     </div>
 </div>
