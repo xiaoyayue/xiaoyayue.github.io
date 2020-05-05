@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Publications & School Projects
 ---
 
 <h3>
@@ -38,7 +37,7 @@ title: Publications & School Projects
     <div class="media-body">
        <p class="media-heading">
           <strong>Data Visualization: An Exploratory Study of Economic Complexity and Human Development Indicators</strong><br />
-          <b>Lily Yue</b>  <dd>https://xiaoyayue.github.io/data_viz_final_project/</dd><br />
+          <b>Lily Yue</b>  <dd>https://xiaoyayue.github.io/data_viz_final_project/</dd> 
           Data Visualization, R, Tableau<br />
        </p>
     </div>
