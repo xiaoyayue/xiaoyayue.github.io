@@ -10,6 +10,7 @@ layout: page
        <p class="media-heading">
           <strong>Predicting Vacancies and House Flipping in the District of Columbia</strong><br />
           Chanlder Dawson, Benjamin Roth,  Andrea Quevedos, <b>Lily Yue </b> <br />
+           https://github.com/xiaoyayue/DCRA <br />
           Python, Supevised and Unsupervised Learning, Random Forest, Logit Model <br />
        </p>
     </div>
