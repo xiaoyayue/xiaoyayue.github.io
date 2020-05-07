@@ -11,7 +11,7 @@ layout: page
           <strong>Predicting Vacancies and House Flipping in the District of Columbia</strong><br />
           Chanlder Dawson, Benjamin Roth,  Andrea Quevedos, <b>Lily Yue </b> <br />
            https://github.com/xiaoyayue/DCRA <br />
-          Python, Supevised and Unsupervised Learning, Random Forest, Logit Model <br />
+          Python, Supervised and Unsupervised Learning, Random Forest, Logit Model <br />
        </p>
     </div>
 </div>
@@ -20,6 +20,7 @@ layout: page
        <p class="media-heading">
           <strong>DCRA Insight Report: Identifying Top Violation Categories in High-Risk Properties</strong><br />
           <b>Lily Yue </b> <br />
+           https://github.com/xiaoyayue/DCRA <br />
           Python, Natural Language Processing <br />
        </p>
     </div>
