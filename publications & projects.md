@@ -8,7 +8,7 @@ layout: page
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <a href="https://github.com/xiaoyayue/DCRA"><strong>Predicting Vacancies and House Flipping in the District of Columbia</strong></a><br />
+          <a href="https://github.com/xiaoyayue/DCRA/tree/master/modeling"><strong>Predicting Vacancies and House Flipping in the District of Columbia</strong></a><br />
           Chanlder Dawson, Benjamin Roth,  Andrea Quevedos, <b>Lily Yue </b> <br />
           Python, Supervised and Unsupervised Learning, Random Forest, Logit Model <br />
        </p>
@@ -17,9 +17,8 @@ layout: page
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>DCRA Insight Report: Identifying Top Violation Categories in High-Risk Properties</strong><br />
+           <a href="https://github.com/xiaoyayue/DCRA"><strong>DCRA Insight Report: Identifying Top Violation Categories in High-Risk Properties</strong></a><br />
           <b>Lily Yue </b> <br />
-           https://github.com/xiaoyayue/DCRA <br />
           Python, Natural Language Processing <br />
        </p>
     </div>
@@ -27,8 +26,7 @@ layout: page
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>HUD’s Challenges to Providing Quality Housing through Local Public Housing Authority (PHA) Partnerships
-</strong><br />
+          <strong>HUD’s Challenges to Providing Quality Housing through Local Public Housing Authority (PHA) Partnerships</strong><br />
            Linn Groft, Shuai (Alexander) You, <b>Lily Yue</b><br />
           Public Management <br />
        </p>
@@ -37,9 +35,8 @@ layout: page
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Data Visualization: An Exploratory Study of Economic Complexity and Human Development Indicators</strong><br />
+           <a href="https://github.com/xiaoyayue/DCRA"><strong>Data Visualization: An Exploratory Study of Economic Complexity and Human Development Indicators</strong></a><br />
           <b>Lily Yue</b>  <br />
-          https://xiaoyayue.github.io/data_viz_final_project/ <br />
           Data Visualization, R, Tableau<br />
        </p>
     </div>
