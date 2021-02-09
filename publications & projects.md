@@ -61,6 +61,7 @@ layout: page
         <strong>Bike4All: Promoting Capital Bikeshare for Transit Equity</strong><br />
           Lixue Chen, Junying Tong, <b>Lily Yue</b><br />
           Data Collection, Cost Benefit Analysis, Mindmap <br />
+        </p>
     </div>
 </div>
 <div class="media">
