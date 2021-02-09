@@ -50,7 +50,7 @@ layout: page
         <strong>IMF's Role in the 1997 East Asia Financial Crisis</strong><br />
           Lixue Chen, Gwen Mazzotta, Allen Tullos, <b>Lily Yue</b><br />
           Data Collection, Econometrics, Financial Model <br />
-       
+       </p>
     </div>
 </div>
 <div class="media">
@@ -58,7 +58,7 @@ layout: page
         <strong>Bike4All: Promoting Capital Bikeshare for Transit Equity</strong><br />
           Lixue Chen, Junying Tong, <b>Lily Yue</b><br />
           Data Collection, Cost Benefit Analysis, Mindmap <br />
-      
+      </p>
     </div>
 </div>
 <div class="media">
