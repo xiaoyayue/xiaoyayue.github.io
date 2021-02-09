@@ -54,6 +54,7 @@ layout: page
         <strong>IMF's Role in the 1997 East Asia Financial Crisis</strong><br />
           Lixue Chen, Allen Tullos, Gwen Mazzotta, <b>Lily Yue</b><br />
           Data Collection, Econometrics, Finance Model <br />
+        </p>
     </div>
 </div>
 <div class="media">
