@@ -8,9 +8,8 @@ layout: page
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Predicting Vacancies and House Flipping in the District of Columbia</strong><br />
+          <a href="https://github.com/xiaoyayue/DCRA"><strong>Predicting Vacancies and House Flipping in the District of Columbia</strong></a><br />
           Chanlder Dawson, Benjamin Roth,  Andrea Quevedos, <b>Lily Yue </b> <br />
-           https://github.com/xiaoyayue/DCRA <br />
           Python, Supervised and Unsupervised Learning, Random Forest, Logit Model <br />
        </p>
     </div>
@@ -53,7 +52,7 @@ layout: page
     <div class="media-body">
         <strong>IMF's Role in the 1997 East Asia Financial Crisis</strong><br />
           Lixue Chen, Gwen Mazzotta, Allen Tullos, <b>Lily Yue</b><br />
-          Data Collection, Econometrics, Finance Model <br />
+          Data Collection, Econometrics, Financial Model <br />
        
     </div>
 </div>
