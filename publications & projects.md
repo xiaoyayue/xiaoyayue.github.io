@@ -35,7 +35,7 @@ layout: page
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-           <a href="https://github.com/xiaoyayue/DCRA"><strong>Data Visualization: An Exploratory Study of Economic Complexity and Human Development Indicators</strong></a><br />
+           <a href="https://xiaoyayue.github.io/data_viz_final_project/"><strong>Data Visualization: An Exploratory Study of Economic Complexity and Human Development Indicators</strong></a><br />
           <b>Lily Yue</b>  <br />
           Data Visualization, R, Tableau<br />
        </p>
